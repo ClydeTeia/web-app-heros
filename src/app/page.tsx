@@ -5,6 +5,7 @@ import Section1 from "@/components/section1";
 import { TracingBeam } from "@/components/ui/tracing-beam";
 import HeroQualities from "@/components/heroqualities";
 import Section3 from "@/components/section3";
+import HeroQuizGame from "@/components/quiz";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <FlippingWords />
         <GlobeHeroesLocations />
         <Section3 />
+        <HeroQuizGame />
       </main>
     </TracingBeam>
   );
