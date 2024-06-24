@@ -7,7 +7,7 @@ function Section3() {
   const items = [
     {
       quote:
-        "By providing opportunities for those who have the drive to create progress in our country.i",
+        "By providing opportunities for those who have the drive to create progress in our country.",
       name: "TEDDIE JOHN RAJEEV",
       title: "BSSE-2",
     },
@@ -18,7 +18,8 @@ function Section3() {
       title: "BSSE-2",
     },
     {
-      quote: "DADDY'S HOME",
+      quote:
+        "I can be a hero by creating projects that help people worldwide: improving healthcare, developing accessible apps, supporting education, contributing to open source, reducing environmental impact, and promoting ethical AI.",
       name: "IAN CLYDE TEJADA",
       title: "BSSE-2",
     },
