@@ -4,6 +4,12 @@ import { WobbleCard } from './ui/wobble-card';
 
 const HeroQualities = () => (
   <div className="my-36 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+    <div>
+      <h1 className="text-white text-5xl font-bold mb-8 text-center mt-4 bg-black p-4 rounded-md">
+        What are a hero&apos;s qualities?
+      </h1>
+    </div>
+
     <WobbleCard
       containerClassName="hero-quality-card"
     >
