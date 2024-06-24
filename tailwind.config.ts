@@ -1,4 +1,6 @@
 import type { Config } from "tailwindcss";
+const defaultTheme = require("tailwindcss/defaultTheme");
+const colors = require("tailwindcss/colors");
 
 const svgToDataUri = require("mini-svg-data-uri");
 const {
