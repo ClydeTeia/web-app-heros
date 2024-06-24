@@ -169,9 +169,6 @@ export function GlobeHeroesLocations() {
           }}
           className="div"
         >
-          <p className="text-center text-base md:text-lg font-normal text-neutral-700 dark:text-neutral-200 max-w-md mt-2 mx-auto">
-            I will put the heroes location here
-          </p>
         </motion.div>
         <div className="absolute w-full h-72 md:h-full z-10">
           <World data={sampleArcs} globeConfig={globeConfig} />
