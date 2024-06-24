@@ -6,21 +6,22 @@ import { InfiniteMovingCards } from "./ui/movingCards";
 function Section3() {
   const items = [
     {
-      quote: "teddie is pogi",
+      quote:
+        "By providing opportunities for those who have the drive to create progress in our country.i",
       name: "TEDDIE JOHN RAJEEV",
-      title: "CEO",
+      title: "BSSE-2",
     },
     {
-      quote: "i love junem",
+      quote:
+        "As a student, I can become a bayani by helping my classmates, studying hard, and being kind to everyone. Joining community service, being honest, and taking care of the environment also matter. By doing these simple things, I can inspire others and make a big difference, becoming a hero in my own way.",
       name: "MANAF KASSIM",
-      title: "GAMER",
+      title: "BSSE-2",
     },
     {
       quote: "DADDY'S HOME",
       name: "IAN CLYDE TEJADA",
-      title: "SUGAR DADDY",
+      title: "BSSE-2",
     },
-    // Add more items as needed
   ];
 
   return (
