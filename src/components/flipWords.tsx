@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import { cn } from "@/utils/cn";
 import { FlipWords } from "@/components/ui/flip-words";
 
 export default function FlippingWords() {

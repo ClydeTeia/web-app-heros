@@ -11,6 +11,7 @@ export default function Home() {
       <main className="flex flex-col w-full h-full py-24 md:p-10">
         <Section1 />
         <FlippingWords />
+        <a id="globe"></a>
         <GlobeHeroesLocations />
         <Section3 />
       </main>

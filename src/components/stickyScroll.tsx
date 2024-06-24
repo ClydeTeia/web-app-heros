@@ -52,6 +52,8 @@ const content = [
 export function StickyScrollRevealDemo() {
   return (
     <div className="p-10">
+      <a href="about-hero"></a>
+
       <StickyScroll content={content} />
     </div>
   );
