@@ -1,6 +1,6 @@
 {
   "canisters": {
-      "icp_simple_site": {
+      "web-app-heroes": {
           "frontend": {
               "entrypoint": "build/index.html"
           },
